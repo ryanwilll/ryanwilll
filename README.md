@@ -2,9 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/ryanwilll">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanwilll&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-.vercel.app/api?username=ryanwilll&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&layout=compact&langs_count=7&theme=omni"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&layout=compact&langs_count=7&theme=omni"/>
 
 </div>
   
