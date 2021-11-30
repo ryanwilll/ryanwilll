@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/DevRyanWill">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=DevRyanWill&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRyanWill&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/ryanwilll">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ryanwilll&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
   
@@ -25,6 +25,6 @@
   <a href="https://www.linkedin.com/in/ryan-will-580327226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </p>
     
-  ![Snake animation](https://github.com/DevRyanWill/DevRyanWill/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ryanwilll/ryanwilll/blob/output/github-contribution-grid-snake.svg)
  
 </div>
