@@ -2,11 +2,13 @@
 </h1>
 <div align="center">
   <a href="https://github.com/ryanwilll">
-  ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanwilll&show_icons=true&theme=dracula)
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&layout=compact&langs_count=7&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&layout=compact&langs_count=7&theme=dracula)
 
 </div>
-  
+  ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanwilll&show_icons=true&theme=dracula)
+
+
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&layout=compact&langs_count=7&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&layout=compact&langs_count=7&theme=dracula)
+
   
 <div style="display: inline_block"><br>
   <p align="center">
