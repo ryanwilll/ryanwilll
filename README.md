@@ -2,7 +2,7 @@
 </h1>
 <div align="center">
   <a href="https://github.com/ryanwilll">
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanwilll)](https://github.com/anuraghazra/github-readme-stats)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanwilll&hide=contribs,prs)
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ryanwilll&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&layout=compact&langs_count=7&theme=dracula"/>
 </div>
