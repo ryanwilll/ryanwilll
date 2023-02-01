@@ -30,5 +30,5 @@
  
 </div>
   
-  
+  <h1 align="center">Contador de Visitas</h1>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Bryanwilll%7D/count.svg"></>
