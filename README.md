@@ -29,17 +29,3 @@
   ![Snake animation](https://github.com/ryanwilll/ryanwilll/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-##
-  
-  <div> 
-        <a href="https://ryanwilll.github.io/dev.finance/" target="_blank">Controle Financeiro</a>
-        <a href="https://ryanwilll.github.io/projetoMario/" target="_blank">Projeto Mário</a>
-        <a href="https://ryanwilll.github.io/statusPedido/" target="_blank">Status Pedido Financeiro</a>
-        <a href="https://ryanwilll.github.io/LaddingPageDropMenu/" target="_blank">Ladding Page Simples C/DropMenu</a>
-        <a href="https://ryanwilll.github.io/LayoutSimplesCompras/" target="_blank">Layout Compras</a>
-        <a href="https://ryanwilll.github.io/RangeHotels/" target="_blank">Google Keep</a>
-        <a href="https://ryanwilll.github.io/ProjetoPearsonHardman/" target="_blank">Pearson Hardman - Advocacia</a>
-        <a href="https://ryanwilll.github.io/ProjetoFAQ/" target="_blank">FAQ Menu</a>
-    
-  </div>
