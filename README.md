@@ -29,3 +29,6 @@
   ![Snake animation](https://github.com/ryanwilll/ryanwilll/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Bryanwilll%7D/count.svg"></>
