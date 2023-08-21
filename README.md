@@ -1,11 +1,11 @@
 <h1 align="center"> Olá, bem vindo(a) ao meu perfil!
 </h1>
-<div align="center">
-  <a href="https://github.com/ryanwilll">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ryanwilll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&layout=compact&langs_count=11&theme=dracula"/>
-</div>
 
+<div  align="center">
+<a href="https://github.com/ryanwilll">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanwilll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   
 <div style="display: inline_block"><br>
   <p align="center">
