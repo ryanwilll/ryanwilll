@@ -8,7 +8,6 @@
 
 
 </div>
-  ##Ferraments e tecnologias
 
 <div style="display: inline_block"><br>
   <p align="center">
