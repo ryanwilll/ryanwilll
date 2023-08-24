@@ -39,7 +39,9 @@
   <a href="https://www.linkedin.com/in/ryan-will-580327226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </p>
     
+
   ![Snake animation](https://github.com/ryanwilll/ryanwilll/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
   
