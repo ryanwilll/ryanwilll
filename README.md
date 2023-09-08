@@ -40,8 +40,6 @@
  </p>
     
 
-  ![Snake animation](https://github.com/ryanwilll/ryanwilll/blob/output/github-contribution-grid-snake.svg)
-
 
 </div>
   
