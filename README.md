@@ -1,13 +1,12 @@
-<h1 align="center"> Olá, bem vindo(a) ao meu perfil!
-</h1>
+# 💫 Sobre Mim:
 
-<div  align="center">
-<a href="https://github.com/ryanwilll">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanwilll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&layout=compact&langs_count=7&theme=dracula"/>
+Olá! me chamo Ryan Will, sou Graduado em Análise e Desenvolvimento de sistemas. Atualmente estou em busca de aperfeiçoar meus conhecimentos, para posteriormente conseguir uma vaga na área de tecnologia.
 
+## 🌐 Socials:
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanwilldars/)
+
+# 💻 Tech Stack:
 
 <div style="display: inline_block"><br>
   <p align="center">
@@ -30,18 +29,22 @@
     
   </p>  
 </div>
- 
-##
-  
-  <div>
-<p align="center">
-  <a href = "mailto:ryan_will-@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ryan-will-580327226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </p>
-    
 
+# 📊 GitHub Stats:
 
-</div>
-  
-  <p align="center">Contador de Visitas</p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Bryanwilll%7D/count.svg"></>
+![](https://github-readme-stats.vercel.app/api?username=ryanwilll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryanwilll&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ryanwilll&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=ryanwilll&icon=0&color=0)](https://visitcount.itsvg.in)
+
