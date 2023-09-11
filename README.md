@@ -30,10 +30,10 @@ Olá! me chamo Ryan Will, sou Graduado em Análise e Desenvolvimento de sistemas
 </div>
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ryanwilll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ryanwilll&theme=dark&hide_border=false)
+<div style="display: inline_block">
+  ![](https://github-readme-stats.vercel.app/api?username=ryanwilll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ryanwilll&theme=dark&hide_border=false)
+</div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwilll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
