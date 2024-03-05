@@ -1,6 +1,6 @@
 # 💫 Sobre Mim:
 
-Olá! me chamo Ryan Will, sou Graduado em Análise e Desenvolvimento de sistemas. Atualmente estou em busca de aperfeiçoar meus conhecimentos, para posteriormente conseguir uma vaga na área de tecnologia.
+Olá! me chamo Ryan Will, sou Graduado em Análise e Desenvolvimento de sistemas. Atualmente atuo como Analista de Qualidade de Software. Sou desenvolvedor front-end, mas especificadamente em React. No momento estudo para aperfeiçoar as habilidades nessa biblioteca e também me arrisco no React Native rs.
 
 ## 🌐 Socials:
 
