@@ -24,9 +24,6 @@ Olá! me chamo Ryan Will, sou Graduado em Análise e Desenvolvimento de sistemas
    
    <img alt="Next JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 
-   
-  <img alt="Ryan-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
-      
 </div>
 
 # 📊 GitHub Stats:
