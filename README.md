@@ -4,7 +4,7 @@ Olá! me chamo Ryan Will, sou Graduado em Análise e Desenvolvimento de sistemas
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanwilldars/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanwilldaros/)
 
 # 💻 Tech Stack:
 
