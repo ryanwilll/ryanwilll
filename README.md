@@ -1,6 +1,6 @@
-# 💫 Sobre Mim:
+# 👋 Sobre Mim:
 
-Olá! me chamo Ryan Will, sou Graduado em Análise e Desenvolvimento de sistemas. Atualmente atuo como Analista de Qualidade de Software. Sou desenvolvedor front-end, mas especificadamente em React. No momento estudo para aperfeiçoar as habilidades nessa biblioteca e também me arrisco no React Native rs.
+Olá! Me chamo Ryan Will e sou graduado em Análise e Desenvolvimento de Sistemas. Atuo como Desenvolvedor Front-End e Mobile, com foco em tecnologias como React e React Native. Atualmente, estou me especializando cada vez mais nessas bibliotecas, buscando aprimorar minhas habilidades e desenvolver soluções modernas, performáticas e escaláveis.
 
 ## 🌐 Socials:
 
@@ -9,22 +9,23 @@ Olá! me chamo Ryan Will, sou Graduado em Análise e Desenvolvimento de sistemas
 # 💻 Tech Stack:
 
 <div style="display: inline_block"><br>
-  <p>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-   
-   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
- 
-   <img alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-   
-   <img alt="Next JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+  
+  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
+  <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  
+  <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  
+  <img alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  
+  <img alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
+
 
 # 📊 GitHub Stats:
 
