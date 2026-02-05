@@ -1,6 +1,8 @@
 # 👋 Sobre Mim:
 
-Olá! Me chamo Ryan Will e sou graduado em Análise e Desenvolvimento de Sistemas. Atuo como Desenvolvedor Front-End e Mobile, com foco em tecnologias como React e React Native. Atualmente, estou me especializando cada vez mais nessas bibliotecas, buscando aprimorar minhas habilidades e desenvolver soluções modernas, performáticas e escaláveis.
+Sou desenvolvedor Frontende Mobile na RG System Tecnologia em Software, onde atuo na criação de interfaces intuitivas e escaláveis para o sistema de Gestão em Saúde, uma plataforma voltada para a centralização de informações estratégicas da saúde pública municipal. Minha atuação inclui o desenvolvimento de módulos complexos como prontuário de atendimento, vigilância ambiental e gestão de imunização e outras soluções, tudo isso voltado para +40 municípios, sempre priorizando a experiência do usuário e a qualidade das soluções entregues.  
+
+Minha formação em Análise e Desenvolvimento de Sistemas pela Universidade Paulista, aliada à proficiência em NextJS, Tailwind CSS e Node.js, fortalece minha capacidade de implementar soluções modernas e eficientes. Sou motivado pela oportunidade de resolver problemas reais e contribuir para a melhoria da gestão em saúde pública, sempre alinhado com os objetivos do time e da organização.
 
 ## 🌐 Socials:
 
